@@ -18,3 +18,4 @@ Please file a GitHub issue and include the original text of the card as well as 
 
 ### This deck is provided with no warranty or guarantee of correctness. If something seems incorrect/like a typo, verify it against an external source before committing it to long term memory. If you feel nice, you could even file an issue and let me know :)
 
+Content scope is largely based on Kaplan's MCAT review books, any images used are used in accordance with their copyright permissions (usually public domain) and sources are linked. If an image doesn't have a source, I made it
