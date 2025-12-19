@@ -1,6 +1,7 @@
 # one-mcat-deck-to-rule-them-all
 
 ### Updates:
+12-18-2025: Added some organic chemistry nomenclature cards
 12-15-2025: Includes general chemistry review content and a few errant biology cards
 
 ### How to use:
